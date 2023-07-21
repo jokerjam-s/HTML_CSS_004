@@ -117,6 +117,5 @@ body{
 .footer__logo {
     display: flex;
     justify-content: space-between;
-    max-width: 1170px;
     margin: 97px auto;
 }
